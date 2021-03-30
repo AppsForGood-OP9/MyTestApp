@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 //Aarush and Yiming, please leave a verification comment here if you are able to edit this file
 //Aarush:
-//Yiming:
+//Yiming: HOWDY THERE CHICOS. LOVE THIS FIRE GROUP <3 WE STAN <3 TALL ENERGY
 public class MainActivity extends AppCompatActivity {
 
     @Override
